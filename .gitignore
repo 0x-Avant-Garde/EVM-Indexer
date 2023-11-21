@@ -1,0 +1,4 @@
+node_modules
+.env
+src/Supabase-Functions/
+dist/Supabase-Functions/
